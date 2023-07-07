@@ -1,0 +1,75 @@
+.main-title {
+    height: 150px;
+    width: 100%;
+    background-image: url(../images/pattern.png);
+    background-size: cover;
+    background-position: center top;
+}
+
+.main-title h1 {
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.main-title h3 {
+    font-family: Helvetica;
+    font-size: ;
+}
+
+.sub-title-1 {
+    width: 100%;
+}
+
+.sub-title-1 h2 {
+    font-family: Helvetica;
+    font-size: 36px;
+    font-weight: bold;
+    color:white;
+    background-color: mediumspringgreen;
+}
+
+.sub-title-2 {
+    width: 100%;
+}
+
+.sub-title-2 h2 {
+    font-family: Helvetica;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+}
+
+.sub-title-3 {
+    width: 100%;
+}
+
+.sub-title-3 h2 {
+    font-family: Helvetica;
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+}
+
+h3 {
+    font-family: Helvetica;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+p {
+    font-family: Helvetica;
+    font-size: 20px;
+}
+
+#Pricing {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
