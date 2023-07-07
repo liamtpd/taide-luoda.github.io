@@ -12,13 +12,16 @@
     font-weight: bold;
     color: khaki;
     text-align: center;
-    padding: 20px;
     margin: 0;
 }
 
 .main-title h3 {
     font-family: Helvetica;
-    font-size: ;
+    font-size: 25px;
+    font-style: italic;
+    color: khaki;
+    text-align: center;
+    margin: 0;
 }
 
 .sub-title-1 {
